@@ -1,5 +1,6 @@
 <h1> :wave: Olá mundo :earth_americas: </h1>
 <h3> Meu nome é Alex e atualmente sou estudante de Ciência da Computação na UFABC</h3>
+<h3> e estágiario em Programação Android na BRQ</h3>
 <h3> Apaixonado por resolver problemas, estou desenvolvendo projetos pessoais para aperfeiçoamento das minhas técnicas, além de me divertir demais nisso! :satisfied:</h3>
 
 <h1> :open_file_folder: Principais Projetos </h1>

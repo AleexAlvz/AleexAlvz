@@ -1,6 +1,6 @@
 <h1> :wave: Olá mundo :earth_americas: </h1>
-<h3> Meu nome é Alex e atualmente sou estudante de Ciência da Computação na UFABC,
-e estágiario na BRQ, trabalhando com programação android com Kotlin/Java</h3>
+<h3> Meu nome é Alex e atualmente sou estudante de Ciência da Computação na UFABC. Faço
+estágiario na BRQ, trabalhando com programação android com Kotlin/Java</h3>
 
 <h3> Apaixonado por resolver problemas, estou desenvolvendo projetos pessoais para aperfeiçoamento das minhas técnicas, além de me divertir demais nisso! :satisfied:</h3>
 

@@ -11,7 +11,11 @@ estágio na BRQ, trabalhando com programação android com Kotlin/Java</h3>
 entre a oferta e demanda, onde o próprio cliente pode solicitar um produto desejado e receber propostas.
 </h3>
 
-<h3> <a target="_blank" href="https://github.com/AleexAlvz/AlvesCosta">Empreiteira Alves Costa</a>: Página WEB 
-desenvolvida para uma empreiteira de SP, com o intuito de praticar o HTML e o CSS.
+<h3> <a target="_blank" href="https://github.com/AleexAlvz/InvestimentosBrq">Investimentos BRQ</a>: App android que acompanha uma api de cotação de moedas e possibilita simulação de venda e compra da moeda.
 </h3>
+
+<h3> <a target="_blank" href="https://github.com/AleexAlvz/Anotacoes_Kotlin">Anotações Kotlin</a>: Aplicativo para anotações, com sistema de login, validação de campos, status da anotação e edição da mesma.
+</h3>
+
+
 

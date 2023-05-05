@@ -1,21 +1,25 @@
-<h1> :wave: Olá mundo :earth_americas: </h1>
-<h3> Meu nome é Alex e atualmente sou estudante de Ciência da Computação na UFABC. Faço
-estágio na BRQ, trabalhando com programação android com Kotlin/Java</h3>
+## Sobre mim
 
-<h3> Apaixonado por resolver problemas, estou desenvolvendo projetos pessoais para aperfeiçoamento das minhas técnicas, além de me divertir demais nisso! :satisfied:</h3>
+Meu nome é Alex e atualmente atuo como desenvolvedor mobile [Kotlin/Java]. Também sou estudante de Ciência da Computação na UFABC e dedico meus estudos para estar sempre atualizado sobre as tecnologias que utilizo.
 
-<h1> :open_file_folder: Principais Projetos </h1>
+## Contato
 
+[![Email](https://img.shields.io/badge/-Email-2E2D2E?style=for-the-badge&labelColor=000000&&logo=gmail&logoColor=white&link=mailto:alex.alves_br@hotmail.com)](mailto:alex.alves_br@hotmail.com)
 
-<h3> <a target="_blank" href="https://github.com/AleexAlvz/Mudi">Mudi</a>: Plataforma que traz uma maior conexão
-entre a oferta e demanda, onde o próprio cliente pode solicitar um produto desejado e receber propostas.
-</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2E2D2E?style=for-the-badge&labelColor=000000&logo=linkedin)](https://www.linkedin.com/in/aleexalvz/)
 
-<h3> <a target="_blank" href="https://github.com/AleexAlvz/InvestimentosBrq">Investimentos BRQ</a>: App android que acompanha uma api de cotação de moedas e possibilita simulação de venda e compra da moeda.
-</h3>
+## Experiência
 
-<h3> <a target="_blank" href="https://github.com/AleexAlvz/Anotacoes_Kotlin">Anotações Kotlin</a>: Aplicativo para anotações, com sistema de login, validação de campos, status da anotação e edição da mesma.
-</h3>
+- 2 anos de experiência como engenheiro Android
+- Conhecimento avançado em Java e Kotlin
+- Experiência com bibliotecas e frameworks populares como Retrofit, Room e Koin
+- Conhecimento sólido em arquitetura de aplicativos móveis e boas práticas de desenvolvimento
+- Participação em projetos de equipe utilizando metodologias ágeis
 
-
-
+## Atividade no GitHub
+<div>
+  <a href="https://github.com/brunocarvalhs">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexalvz&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleexalvz&show_icons=true&theme=radical" />
+  </a>
+</div>

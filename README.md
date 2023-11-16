@@ -18,7 +18,7 @@ Meu nome é Alex e atualmente atuo como desenvolvedor mobile [Kotlin/Java]. Tamb
 
 ## Atividade no GitHub
 <div>
-  <a href="https://github.com/brunocarvalhs">
+  <a href="https://github.com/aleexalvz">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexalvz&layout=compact&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleexalvz&show_icons=true&theme=radical" />
   </a>
